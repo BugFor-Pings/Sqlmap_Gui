@@ -33,3 +33,7 @@ shell模块可以选择sql-shell或者os-shell
 将本项目与汉化版Sqlmap放到同一目录即可使用
 
 ![Screenshot](https://blog.hackersafe.cn/usr/uploads/2023/04/1129548876.jpg)
+
+免责声明
+----
+由于传播、利用此文所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，作者不为此承担任何责任。
